@@ -1,10 +1,4 @@
-import { Utensils } from echo "# Littile_Lemon" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/ipraveen27/Littile_Lemon.git
-git push -u origin main;
+import { Utensils } from 'lucide-react';
 
 const menuItems = [
   {
